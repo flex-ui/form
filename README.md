@@ -28,7 +28,7 @@ for `html` file:
 in `<head></head>`
 ```html
  <link rel="stylesheet" href="/bower_components/flex-ui-form/form.css" />
-```a
+```
 
 ## Documentation
 ` COMMING SOON... `
