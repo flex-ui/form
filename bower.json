@@ -1,6 +1,6 @@
 {
 	"name": "flex-ui-form",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"homepage": "https://github.com/flex-ui/form",
 	"authors": [
 		"Lado Lomidze <lado.lomidze@gmail.com>",
@@ -18,6 +18,6 @@
 		"tests"
 	],
 	"dependencies": {
-		"flex-ui-bootstrap": "~0.1.0"
+		"flex-ui-bootstrap": "*"
 	}
 }
